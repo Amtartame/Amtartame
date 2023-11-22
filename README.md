@@ -1,13 +1,18 @@
-- 👋 Bonjour je suis @JanjeVuk
-- 👀 Je suis intéresser par les serveurs Minecraft
-- Développeur en :
-      - Java (Kotlin)
-      - PHP
-      - HTML/CSS
-- Débutant en  :
-      - JS
-      - System Admin
-      - C#
-- 🌱 Je m'intéresse au différent moyen de faire évoluer la programmation et la création de serveur minecraft
-- 📫 Vous pouvez me contacter sur janjevuk@outlook.be
+### 👋 Bonjour, je suis @JanjeVuk
+
+👀 Passionné par les serveurs Minecraft, je suis développeur expérimenté en :
+
+- Java (Kotlin)
+- PHP
+- HTML/CSS
+
+Je suis également en phase d'apprentissage dans les domaines suivants :
+
+- JS
+- Administration Système
+- C#
+
+🌱 Mon intérêt se porte sur les divers moyens d'innover dans la programmation et la création de serveurs Minecraft.
+
+📫 N'hésitez pas à me contacter via janjevuk@outlook.be !
 
