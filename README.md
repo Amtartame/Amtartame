@@ -2,7 +2,9 @@
 
 👀 Passionné par les serveurs Minecraft, je suis développeur expérimenté en :
 
-- Java (Kotlin)
+- Java (&Kotlin)
+- Gestion Base de données
+- System de service en cache : Redis
 
 Je suis également en phase d'apprentissage dans les domaines suivants :
 
@@ -11,6 +13,7 @@ Je suis également en phase d'apprentissage dans les domaines suivants :
 - C#
 - PHP
 - HTML/CSS
+
 
 🌱 Mon intérêt se porte sur les divers moyens d'innover dans la programmation et la création de serveurs Minecraft.
 
