@@ -1,29 +1,31 @@
+
+
 ## 👋 Bonjour, je suis @JanjeVuk
 
 ### À propos de moi
 
-👀 Passionné par les serveurs Minecraft, je suis un développeur expérimenté avec une expertise en :
+Je suis un **développeur passionné** spécialisé dans les serveurs Minecraft avec une solide expertise en :
 
-- **Java** (& Kotlin)
-- **PHP**
-- **HTML/CSS**
-- **Système de service en cache : Redis**
+- **Java** & **Kotlin** : Création et personnalisation de plugins pour Minecraft.
+- **PHP** : Développement de fonctionnalités côté serveur.
+- **HTML/CSS** : Conception d'interfaces utilisateur attrayantes.
+- **Redis** : Mise en place et gestion de systèmes de cache performants.
 
 ### En Apprentissage
 
-Je suis également en phase d'apprentissage dans les domaines suivants :
+Je suis actuellement en pleine exploration de :
 
-- **JavaScript (JS)**
-- **Administration Système**
-- **C#**
-- **Gestion de Base de données**
+- **JavaScript (JS)** : Pour enrichir les expériences web et serveurs.
+- **Administration Système** : Optimisation des environnements de déploiement.
+- **C#** : Développement d'applications et jeux.
+- **Gestion de Base de données** : Amélioration des compétences en conception et gestion de données.
 
 ### Centres d'Intérêt
 
-🌱 Mon intérêt se porte sur les divers moyens d'innover dans la programmation et la création de serveurs Minecraft. Je suis constamment à la recherche de nouvelles idées et technologies pour améliorer l'expérience des joueurs.
+🌱 **Innovation et Créativité** : Je suis passionné par l'innovation dans le domaine de la programmation et la création de serveurs Minecraft. Mon objectif est de constamment améliorer l'expérience des joueurs en intégrant des idées nouvelles et des technologies émergentes.
 
 ### Me Contacter
 
-📫 N'hésitez pas à me contacter via :
+📫 Vous pouvez me contacter par :
 - **Email** : [janjevuk@outlook.be](mailto:janjevuk@outlook.be)
 - **Discord** : [Rejoignez-moi sur Discord](https://discord.gg/ep8dFa4veH)
