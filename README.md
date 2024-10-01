@@ -6,6 +6,7 @@ Je suis un **développeur passionné**, spécialisé dans les serveurs Minecraft
 
 - **Java** & **Kotlin** : Création et personnalisation de plugins pour Minecraft.
 - **PHP** : Développement de fonctionnalités serveur côté backend.
+- **JavaScript (JS)** : Pour enrichir les expériences web et serveurs.
 - **HTML/CSS** : Conception d'interfaces utilisateur attrayantes et responsives.
 - **Redis** : Gestion de systèmes de cache performants pour une optimisation des performances.
 
@@ -13,7 +14,6 @@ Je suis un **développeur passionné**, spécialisé dans les serveurs Minecraft
 
 En cette saison automnale 🍁, je me plonge dans l'exploration de :
 
-- **JavaScript (JS)** : Pour enrichir les expériences web et serveurs.
 - **React** & **Next.js** : Développement d'interfaces web modernes et performantes.
 - **Administration Système** : Optimisation des environnements de déploiement.
 - **C#** : Pour le développement d'applications et de jeux.
