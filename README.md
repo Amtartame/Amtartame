@@ -26,5 +26,5 @@ En cette saison automnale 🍁, je me plonge dans l'exploration de :
 ### Me Contacter
 
 📫 Vous pouvez me contacter par :
-- **Email** : [janjevuk@outlook.be](mailto:amtartame@outlook.be)
-- **Discord** : [Rejoignez-moi sur Discord](https://discord.gg/Z9eV2MwTSk)
+- **Email** : [amtartame@outlook.be](mailto:amtartame@outlook.be)
+- **Discord** : [Rejoignez-moi sur Discord](https://discord.gg/wKsGJ6HqU)
